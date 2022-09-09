@@ -10,7 +10,7 @@ I'm currently using the libraries:
 	- Pygame : To open windows displaying the PyOpenGL
 
 
-*			     ; 
+			     ; 
 			     ;;
 			     ;';.
 			     ;  ;;
@@ -22,4 +22,4 @@ I'm currently using the libraries:
 			,;;;,; 
 			;;;;;;
 			`;;;;'
-*
+
