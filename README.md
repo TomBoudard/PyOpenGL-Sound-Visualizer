@@ -1,1 +1,1 @@
-# PyOpenGL
+# PyOpenGL Sound Visualizer
